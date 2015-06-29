@@ -1,4 +1,0 @@
-/*
-Content-Type: multipart/related; boundary="_"
-
-*/
